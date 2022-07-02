@@ -1,0 +1,27 @@
+img{
+    height: 400px;
+    padding: 50px;
+    
+}
+.puerta1{
+    display:flex bottom ;
+}
+.Botón{
+    display: flex;
+    justify-content: center;
+}
+body{
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    text-align: center;
+    background-image: url('Zombi.jpg');
+}
+h1{
+    color: rgb(0, 0, 0);
+    border: 800px;
+    padding: 4px;
+    background-image:radial-gradient(red,rgb(255, 217, 0));
+}
